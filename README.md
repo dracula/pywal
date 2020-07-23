@@ -2,7 +2,7 @@
 
 > A dark theme for [Pywal](https://github.com/dylanaraps/pywal).
 
-![Screenshot](./screenshot.png)
+![Screenshot]
 
 ## Install
 
