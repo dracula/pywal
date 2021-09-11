@@ -6,5 +6,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/pywal/archi
 
 #### Activating theme
 
-    $ cp dracula.json ~/.config/wal/colorschemes/dark/dracula.json
-    $ wal --theme dracula
+    cp dracula.json ~/.config/wal/colorschemes/dark/dracula.json
+    wal --theme dracula
